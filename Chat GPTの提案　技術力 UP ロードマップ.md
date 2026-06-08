@@ -20,7 +20,7 @@
 
 ---
 
-### ② EC2にデプロイして公開
+### ② [[EC2]]にデプロイして公開
 
 難易度：★★☆☆☆
 
@@ -41,8 +41,8 @@ URLでアクセスできる状態にする。
 
 もしまだなら。
 
-- Dockerfile
-- docker compose
+- [[Dockerfile]]
+- [[docker compose]]
 
 で起動できる状態。
 
